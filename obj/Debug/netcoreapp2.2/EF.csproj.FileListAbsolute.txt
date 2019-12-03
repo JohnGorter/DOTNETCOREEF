@@ -1,0 +1,11 @@
+/Users/johngorter/Desktop/EF/bin/Debug/netcoreapp2.2/EF.deps.json
+/Users/johngorter/Desktop/EF/bin/Debug/netcoreapp2.2/EF.runtimeconfig.json
+/Users/johngorter/Desktop/EF/bin/Debug/netcoreapp2.2/EF.runtimeconfig.dev.json
+/Users/johngorter/Desktop/EF/bin/Debug/netcoreapp2.2/EF.dll
+/Users/johngorter/Desktop/EF/bin/Debug/netcoreapp2.2/EF.pdb
+/Users/johngorter/Desktop/EF/obj/Debug/netcoreapp2.2/EF.csprojAssemblyReference.cache
+/Users/johngorter/Desktop/EF/obj/Debug/netcoreapp2.2/EF.csproj.CoreCompileInputs.cache
+/Users/johngorter/Desktop/EF/obj/Debug/netcoreapp2.2/EF.AssemblyInfoInputs.cache
+/Users/johngorter/Desktop/EF/obj/Debug/netcoreapp2.2/EF.AssemblyInfo.cs
+/Users/johngorter/Desktop/EF/obj/Debug/netcoreapp2.2/EF.dll
+/Users/johngorter/Desktop/EF/obj/Debug/netcoreapp2.2/EF.pdb
